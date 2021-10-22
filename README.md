@@ -7,3 +7,4 @@ Zcode python ile yazılmış bir İde idir
 **kısa yollar**
  - ctrl+w Dosyayı kapatır
  - control+s Dosyayı kaydeder
+ - F5 Çalıştırır
